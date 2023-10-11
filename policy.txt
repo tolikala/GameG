@@ -1,4 +1,1 @@
-{
-  "u": "https://bodergatez.dsrcgoms.net/sw/conf/go88",
-  "aff_id": "exo_307c3ab9bb8879c94e20b8fe071f2703"
-}
+https://google.com
